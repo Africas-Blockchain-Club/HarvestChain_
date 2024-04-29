@@ -1,0 +1,70 @@
+.home-wrapper {
+    color: black;
+    position: relative;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+}
+
+.home-Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center items vertically */
+}
+
+.home-left {
+    /* Add styles for the left section */
+    flex: 1; /* Occupy remaining space */
+    
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    padding-right: 10rem;
+    padding-left: 10rem;
+    gap: 1;
+}
+
+.home-title{
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.green-circle{
+    height: 4rem;
+    width: 4rem;
+    background: rgb(5, 165, 5);
+    border-radius: 999px;
+    position: absolute;
+    right: 55%;
+    top: -5%;
+    z-index: -1;
+}
+
+.home-title>h1{
+    font-weight: 500;
+    font-size: 3.8rem;
+    line-height: 4rem;
+}
+
+
+.home-right {
+    /* Add styles for the right section */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    flex-shrink: 0; /* Prevent shrinking */
+    padding-right: 10rem; /* Adjust the padding as needed */
+}
+
+.image-container {
+    width: 20rem;
+    height: 25rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(255, 255, 255, 0.12);
+    
+}    
+
+.image-container > img {
+    width: 100%;
+    height: 100%;
+}
