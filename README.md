@@ -15,15 +15,15 @@ Start by opening your browser, ensure you have internet connection.
 
 
 # Step 2: Install Metamask
-Click on the following link to install your [metamask]() wallet.
+Click on the following link to install your [metamask](https://metamask.io.download/) wallet.
 
 # Step 3: Create an account on MetaMask
 Follow the prompts to create an account, if you already have an account follow the prompts to import your wallet.
 
 # Step 4: Select Connect Wallet Button
-Redirect to the main link of the website, and select connect wallet.This is done to facilitate payments.
+Redirect to the main link of the HarvestChain_ website, and select connect wallet.This is done to facilitate payments.
 
-To facilitate payments and for smooth navigation on the platform it is essential to have your metamask wallet installed refer to step 2 if you haven't installed Metamask.
+NB: To facilitate payments and for smooth navigation on the platform it is essential to have your metamask wallet installed refer to step 2 if you haven't installed Metamask.
 
 # Step 5: Select Button Catering for your Needs
 *In the instance that you are a consumer, select the button "Buyer" and follow the on-screen instructions to make a purchase.
