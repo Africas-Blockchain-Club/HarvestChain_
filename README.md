@@ -1,27 +1,27 @@
 # HarvestChain_
-HarvestChain_ is a decentralised solution enabling direct interaction between farmers and buyers. It utilizes smart contracts to carry out each transaction on the platform, ensuring trust, reducing costs, and safeguarding user data without needing a third party.
+HarvestChain_ is a decentralized solution enabling direct interaction between farmers and buyers. It utilizes smart contracts to carry out each transaction on the platform, ensuring trust, reducing costs, and safeguarding user data without needing a third party.
 
 # HarvestChain_ Guideline
 HarvestChain! a decentralised marketplace that enables you to interact with a farmer/buyer using crypto currency.
 
-The guidelines that are mre user-friendly for customers will be available once HarvestChain_ is launched on main net.
+The guidelines that are more user-friendly for customers will be available once HarvestChain_ is launched on main net.
 
-The available guidelines for developers, contributors or judges can be found at our Github Wiki Page.
+The available guidelines for developers, contributors or judges can be found at our [Github Wiki Page](https://github.com/T-Charl/Scroll-Hackathon/wiki).
 
 
 
 # Step 1: Open your Browser
-Start by opening your preffered browser, ensure you have internet connection.
+Start by opening your browser, ensure you have internet connection.
 
 
 # Step 2: Install Metamask
-Click on the following link to install your metamask wallet.
+Click on the following link to install your [metamask]() wallet.
 
 # Step 3: Create an account on MetaMask
 Follow the prompts to create an account, if you already have an account follow the prompts to import your wallet.
 
 # Step 4: Select Connect Wallet Button
-Redirect to the main link of the website here, and select connect wallet.This is done to facilitate payments.
+Redirect to the main link of the website, and select connect wallet.This is done to facilitate payments.
 
 To facilitate payments and for smooth navigation on the platform it is essential to have your metamask wallet installed refer to step 2 if you haven't installed Metamask.
 
